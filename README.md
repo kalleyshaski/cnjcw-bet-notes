@@ -1,2 +1,14 @@
 # cnjcw-bet-notes
-HTML page archive and documentation
+
+页面发布与维护记录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
